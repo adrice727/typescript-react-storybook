@@ -1,13 +1,20 @@
-
 {
   "name": "typescript-react-storybook",
   "version": "0.0.1",
   "author": "Aaron Rice <adrice727@gmail.com>",
   "license": "MIT",
-  "repository" :
-  { "type" : "git",
-    "url" : "git@github.com:adrice727/typescript-react-storybook.git"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:adrice727/typescript-react-storybook.git"
   },
+  "keywords": [
+    "typescript",
+    "react",
+    "components",
+    "storybook",
+    "postcss",
+    "starter"
+  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
