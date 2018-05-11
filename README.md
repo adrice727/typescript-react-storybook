@@ -65,9 +65,9 @@ and then import and use the components as normal:
 import { Button } from 'typescript-react-storybook';
 
 const myComponent = () =>
-	<div>
-		<Button text="hello" onClick={() => console.log('clicked'))} />
-	</div>
+  <div>
+    <Button text="hello" onClick={() => console.log('clicked'))} />
+  </div>
 
 ```
 
