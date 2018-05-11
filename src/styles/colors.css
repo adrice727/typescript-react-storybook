@@ -1,0 +1,34 @@
+:root {
+  /* https://flatuicolors.com/palette/in */
+  --color-orchidOrange: #FEA47F;
+  --color-spiroBlue: #25CCF7;
+  --color-honeyGlow: #EAB543;
+  --color-sweetGarden: #55E6C1;
+  --color-fallingStar:#CAD3C8;
+  --color-richGardenia: #F97F51;
+  --color-clearChill: #1B9CFC;
+  --color-whitePepper: #F8EFBA;
+  --color-keppel: #58B19F;
+  --color-shipsOfficer: #2C3A47;
+  --color-fireyFuschia: #B33771;
+  --color-bluebell: #3B3B98;
+  --color-georgiaPeach: #FD7272;
+  --color-oasisStream: #9AECDB;
+  --color-brightUbe: #D6A2E8;
+  --color-magenta: #6D214F;
+  --color-navyBlue: #182C61;
+  --color-sasquatchSocks: #FC427B;
+  --color-pineGlade: #BDC581;
+  --color-highligterLavender: #82589F;
+  --color-grey0: color-mod(grey tint(90%));
+  --color-grey1: color-mod(grey tint(80%));
+  --color-grey2: color-mod(grey tint(60%));
+  --color-grey3: color-mod(grey tint(40%));
+  --color-grey4: color-mod(grey tint(20%));
+  --color-grey5: grey;
+  --color-grey6: color-mod(grey shade(20%));
+  --color-grey7: color-mod(grey shade(40%));
+  --color-grey8: color-mod(grey shade(60%));
+  --color-grey9: color-mod(grey shade(80%));
+  --color-grey10: color-mod(grey shade(90%));
+}

@@ -1,0 +1,31 @@
+@define-mixin cta-icon $color {
+  &::after {
+    content: "";
+    background-image: inline(icons/ctaarrow-$(color).png);
+    position: relative;
+    display: inline-block;
+    background-size: .5em;
+    background-repeat: no-repeat;
+    background-position: left center;
+    height: .9em;
+    width: auto;
+    padding-left: .5em;
+    margin-left: 10px;
+  }
+}
+
+@define-mixin download-icon {
+  &::after {
+    content: "";
+    background-image: inline(icons/download-white.svg);
+    position: relative;
+    display: inline-block;
+    background-size: 1em;
+    background-repeat: no-repeat;
+    background-position: left center;
+    height: 1em;
+    width: .5em;
+    padding-left: .5em;
+    margin-left: 10px;
+  }
+}
