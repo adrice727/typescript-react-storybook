@@ -1,12 +1,13 @@
 {
   "name": "typescript-react-storybook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Aaron Rice <adrice727@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:adrice727/typescript-react-storybook.git"
   },
+  "description": "A starter kit for building a reusable component library with TypeScript, React, and Storybook.",
   "keywords": [
     "typescript",
     "react",
